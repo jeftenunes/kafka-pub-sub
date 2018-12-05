@@ -1,0 +1,25 @@
+--temp-output:c:\users\1007936\documents\visual studio 2015\Projects\Kafka.Studies\src\Kafka.Studies.ConsoleProducer\obj\Debug\net452\
+--out:c:\users\1007936\documents\visual studio 2015\Projects\Kafka.Studies\src\Kafka.Studies.ConsoleProducer\bin\Debug\net452\Kafka.Studies.ConsoleProducer.exe
+--define:DEBUG
+--define:TRACE
+--define:NET452
+--suppress-warning:CS1701
+--suppress-warning:CS1702
+--suppress-warning:CS1705
+--platform:x64
+--optimize:False
+--emit-entry-point:True
+--output-name:Kafka.Studies.ConsoleProducer
+--file-version:1.0.0.0
+--version:1.0.0.0
+--informational-version:1.0.0
+--target-framework:.NETFramework,Version=v4.5.2
+--reference:C:\Users\1007936\.nuget\packages\kafka-net\0.9.0.65\lib\net45\kafka-net.dll
+--reference:C:\Users\1007936\.nuget\packages\System.Runtime.InteropServices.RuntimeInformation\4.3.0\ref\netstandard1.1\System.Runtime.InteropServices.RuntimeInformation.dll
+--reference:c:\users\1007936\documents\visual studio 2015\Projects\Kafka.Studies\src\Kafka.Studies.Domain\bin\Debug\net452\Kafka.Studies.Domain.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Core.dll
+--reference:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Microsoft.CSharp.dll
+c:\users\1007936\documents\visual studio 2015\Projects\Kafka.Studies\src\Kafka.Studies.ConsoleProducer\Program.cs
+c:\users\1007936\documents\visual studio 2015\Projects\Kafka.Studies\src\Kafka.Studies.ConsoleProducer\Properties\AssemblyInfo.cs

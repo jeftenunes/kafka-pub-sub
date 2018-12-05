@@ -1,0 +1,15 @@
+﻿-d:DEBUG
+-d:TRACE
+-d:NETCOREAPP2_1
+-nowarn:CS1701
+-nowarn:CS1702
+-nowarn:CS1705
+-t:library
+-debug:full
+-nostdlib
+-nologo
+"c:\users\1007936\documents\visual studio 2015\Projects\Kafka.Studies\src\Kafka.Studies.Domain\obj\Debug\netcoreapp2.1\dotnet-compile.assemblyinfo.cs"
+-out:"c:\users\1007936\documents\visual studio 2015\Projects\Kafka.Studies\src\Kafka.Studies.Domain\bin\Debug\netcoreapp2.1\Kafka.Studies.Domain.dll"
+-r:"C:\Users\1007936\.nuget\packages\kafka-net-core\1.0.2\lib\netcoreapp2.1\kafka-net-core.dll"
+"c:\users\1007936\documents\visual studio 2015\Projects\Kafka.Studies\src\Kafka.Studies.Domain\Producer.cs"
+"c:\users\1007936\documents\visual studio 2015\Projects\Kafka.Studies\src\Kafka.Studies.Domain\Properties\AssemblyInfo.cs"

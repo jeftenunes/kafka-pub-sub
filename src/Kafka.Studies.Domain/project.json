@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0-*",
+
+  "dependencies": {
+    "kafka-net": "0.9.0.65",
+    "NETStandard.Library": "2.0.0"
+  },
+
+  "frameworks": {
+    "net452": {}
+  }
+}

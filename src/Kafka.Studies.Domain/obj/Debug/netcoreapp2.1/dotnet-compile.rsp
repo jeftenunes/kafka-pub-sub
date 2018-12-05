@@ -1,0 +1,17 @@
+--temp-output:c:\users\1007936\documents\visual studio 2015\Projects\Kafka.Studies\src\Kafka.Studies.Domain\obj\Debug\netcoreapp2.1\
+--out:c:\users\1007936\documents\visual studio 2015\Projects\Kafka.Studies\src\Kafka.Studies.Domain\bin\Debug\netcoreapp2.1\Kafka.Studies.Domain.dll
+--define:DEBUG
+--define:TRACE
+--define:NETCOREAPP2_1
+--suppress-warning:CS1701
+--suppress-warning:CS1702
+--suppress-warning:CS1705
+--optimize:False
+--output-name:Kafka.Studies.Domain
+--file-version:1.0.0.0
+--version:1.0.0.0
+--informational-version:1.0.0
+--target-framework:.NETCoreApp,Version=v2.1
+--reference:C:\Users\1007936\.nuget\packages\kafka-net-core\1.0.2\lib\netcoreapp2.1\kafka-net-core.dll
+c:\users\1007936\documents\visual studio 2015\Projects\Kafka.Studies\src\Kafka.Studies.Domain\Producer.cs
+c:\users\1007936\documents\visual studio 2015\Projects\Kafka.Studies\src\Kafka.Studies.Domain\Properties\AssemblyInfo.cs
